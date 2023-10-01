@@ -1,5 +1,7 @@
 ### Hi there 👋
+https://github-readme-stats-beta-bice-69.vercel.app/
 
+[![Anurag's GitHub stats](https://github-readme-stats-beta-bice-69.vercel.app/api?username=Jay8012)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Jay8012/Jay8012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
