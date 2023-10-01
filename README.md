@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats-beta-bice-69.vercel.app/api?username=Jay8012&show_icons=true&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
